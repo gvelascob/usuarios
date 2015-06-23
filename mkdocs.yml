@@ -1,0 +1,30 @@
+site_name: Ayuda Dinex
+site_description: Sitio de ayuda para los usuarios de Dinex.
+site_author: Dinex SpA
+site_favicon: img/favicon.png
+copyright: Dinex SpA - 2015
+theme_dir: dinex_theme
+include_next_prev: false
+pages:
+
+- Inicio: 'index.md'
+
+- Preguntas Frecuentes:
+  - 'Preguntas Frecuentes': 'faq/FAQ-preguntas-generales.md'
+  #- 'Personas': 'faq/FAQ-personas.md'
+  #- 'Taxistas': 'faq/FAQ-taxistas.md'
+  #- 'Problemas de Pago': 'faq/problemas.md'
+  - 'Solución de Problemas': 'faq/soluciones.md'
+
+- Tutoriales:
+  - 'Pagar & Recibir': 'tutoriales/tut-pagos.md'
+  - 'Cargos & Retiros': 'tutoriales/tut-cargos.md'
+  - 'Cuenta del Usuario': 'tutoriales/tut-cuenta.md'
+  - 'Manual de Usuario': 'tutoriales/tut-manual.md'
+
+- Condiciones:
+  - 'Términos de Uso': 'legal/eula.md'
+  - 'Privacidad': 'legal/privacidad.md'
+  - 'Seguridad': 'legal/seguridad.md'
+
+- Contacto: 'solicitud.md'
