@@ -16,15 +16,16 @@ pages:
   #- 'Problemas de Pago': 'faq/problemas.md'
   - 'Solución de Problemas': 'faq/soluciones.md'
 
-- Tutoriales:
-  - 'Pagar & Recibir': 'tutoriales/tut-pagos.md'
-  - 'Cargos & Retiros': 'tutoriales/tut-cargos.md'
-  - 'Cuenta del Usuario': 'tutoriales/tut-cuenta.md'
-  - 'Manual de Usuario': 'tutoriales/tut-manual.md'
+- Guías:
+  - 'Cuenta de Usuario': 'guias/cuenta.md'
+  - 'Pagar & Recibir': 'guias/pagos.md'
+  - 'Cargar & Retirar': 'guias/cargar-retirar.md'
+  - 'Costos': 'guias/costos.md'
+  - 'Seguridad': 'guias/seguridad.md'
+  - 'Manual de Usuario': 'guias/manual.md'
 
 - Condiciones:
   - 'Términos de Uso': 'legal/eula.md'
   - 'Privacidad': 'legal/privacidad.md'
-  - 'Seguridad': 'legal/seguridad.md'
 
 - Contacto: 'solicitud.md'
