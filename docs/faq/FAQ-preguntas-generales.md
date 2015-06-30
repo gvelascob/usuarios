@@ -10,9 +10,9 @@ Aquí encontrarás una lista de preguntas frecuentes más típicas respecto a la
 **Con Dinex pagas y recibes en segundos, sin efectivo y con máxima seguridad.**
 
 
-## ¿Qué son los nombres Dinex: $dinexTag?
+## ¿Qué son los nombres Dinex: $DinexTag?
 
-El nombre Dinex, o $dinexTag, es tu nombre de usuario en la red Dinex. Con tu $dinexTag puedes recibir pagos a través de la App Dinex.
+El nombre Dinex, o $DinexTag, es tu nombre de usuario en la red Dinex. Con tu $DinexTag puedes recibir pagos a través de la App Dinex.
 
 Compártelo con los demás y recibe pagos en segundos, en cualquier lugar.
 
@@ -36,7 +36,7 @@ Un crédito Dinex vale un peso chileno. Siempre.
 
 A todos!
 
-Ingresa el nombre de usuario Dinex, $dinexTag, del destinatario en la App y listo, ya le puedes enviar.
+Ingresa el nombre de usuario Dinex, $DinexTag, del destinatario en la App y listo, ya le puedes enviar.
 
 [+ info](../guias/pagos)
 
@@ -116,7 +116,7 @@ No hay!
 
 Dinex necesita internet para realizar y validar pagos.
 
-Aunque no tengas conexión puedes recibir pagos en tu $dinexTag.
+Aunque no tengas conexión puedes recibir pagos en tu $DinexTag.
 
 Cuando te conectes nuevamente verás tu saldo actualizado.
 

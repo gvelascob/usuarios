@@ -9,7 +9,7 @@ Si no encuentras la respuesta que buscas [envíanos un mensaje](../solicitud.md)
 
 1. Descarga la App Dinex desde la tienda de aplicaciones para tu Smartphone
 
-2. Registra tu nombre de usuario ([$dinexTag](#dinextag))
+2. Registra tu nombre de usuario ([$DinexTag](#dinextag))
 
 3. Crea tu contraseña
 
@@ -20,27 +20,27 @@ Si no encuentras la respuesta que buscas [envíanos un mensaje](../solicitud.md)
 ** Listo! ya tienes tu cuenta Dinex :)**
 
 
-## $dinexTag
+## $DinexTag
 
-El $dinexTag, o nombre de usuario Dinex, es el identificador de tu cuenta para que ingreses a la aplicación y recibas pagos.
+El $DinexTag, o nombre de usuario Dinex, es el identificador de tu cuenta para que ingreses a la aplicación y recibas pagos.
 
-Todo usuario Dinex tiene un $dinexTag, el cual comienza **siempre con el signo $.**
+Todo usuario Dinex tiene un $DinexTag, el cual comienza **siempre con el signo $.**
 
-Los $dinexTag son únicos, tienen un máximo de 20 caractéres y no diferencian entre minúsculas y mayúsculas.
+Los $DinexTag son únicos, tienen un máximo de 20 caractéres y no diferencian entre minúsculas y mayúsculas.
 
 ### ¿Cómo usarlo?
 
-Los $dinexTag permiten a cualquier persona recibir pagos Dinex en cualquier lugar y momento.
+Los $DinexTag permiten a cualquier persona recibir pagos Dinex en cualquier lugar y momento.
 
-Nunca más tendrás que revelar información personal a terceros, ni tu RUT, ni tu cuenta bancaria, nada. Sólo con tu $dinexTag ya puedes recibir pagos.
+Nunca más tendrás que revelar información personal a terceros, ni tu RUT, ni tu cuenta bancaria, nada. Sólo con tu $DinexTag ya puedes recibir pagos.
 
-La persona que realiza el pago debe ingresar el $dinexTag del destinatario en la aplicación Dinex, indicar el monto y realizar la transacción.
+La persona que realiza el pago debe ingresar el $DinexTag del destinatario en la aplicación Dinex, indicar el monto y realizar la transacción.
 
 En breves segundos, el destinatario será notificado a través de la App del pago recibido.
 
-### Cambiar el $dinexTag
+### Cambiar el $DinexTag
 
-Para cambiar tu $dinexTag debes ingresar a la App Dinex o via web en <a href="http://dinex.cl/webapp" target="_blank">dinex.cl/webapp</a>, sección **Cuenta** y seguir los pasos indicados.
+Para cambiar tu $DinexTag debes ingresar a la App Dinex o via web en <a href="http://dinex.cl/webapp" target="_blank">dinex.cl/webapp</a>, sección **Cuenta** y seguir los pasos indicados.
 
 
 ## Saldo Dinex
