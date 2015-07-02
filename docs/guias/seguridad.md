@@ -11,12 +11,12 @@ Los datacenters con que opera Dinex están certificados bajo los más exigentes 
 
 ## Seguridad de las transacciones
 
-Toda transacción Dinex está respaldada por una transacción firmada criptográficamente y auditable publicamente en la red de transacciones distribuida ripple.
+Toda transacción Dinex está respaldada por una transacción firmada criptográficamente y auditable publicamente en la red de transacciones distribuida Ripple.
 
-Esto permite que las transacciones Dinex sean:
+Esto permite que las transacciones Dinex tengan las siguientes características:
 
-- Integridad: transacciones se procesan o no. No hay procesamiento parcial.
-- Irreversibilidad: una pago ya realizado no puede ser anulado por el sistema.
+- Integridad: las transacciones se procesan o no. No hay procesamiento parcial.
+- Irreversibilidad: un pago realizado no puede ser anulado por el sistema.
 
 Para información más detallada, leer los [Términos y Condiciones de Uso](../legal/eula) de Dinex.
 
@@ -24,7 +24,7 @@ Para información más detallada, leer los [Términos y Condiciones de Uso](../l
 
 La **Clave Secreta Dinex** es un elemento esencial de seguridad en la red Dinex.
 
-Se trata de un conjunto de 30 caracteres únicos para cada cuenta con los cuales puedes recuperar el acceso a tus fondos rápidamente en caso de que pierdas control de tu cuenta u olvides tu contraseña.
+Se trata de un conjunto de 30 caracteres únicos para cada cuenta con el que puedes recuperar el acceso a tus fondos rápidamente en caso de que pierdas control de tu cuenta u olvides tu contraseña.
 
 Al momento de crear la cuenta en la aplicación, se te informará que guardes la **Clave Secreta Dinex** en un lugar seguro. 
 

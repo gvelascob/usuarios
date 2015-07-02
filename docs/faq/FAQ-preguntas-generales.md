@@ -5,14 +5,14 @@ Aquí encontrarás una lista de preguntas frecuentes más típicas respecto a la
 
 ## ¿Qué es Dinex?
 
-**Dinex es el primer medio de pago digital para Smartphones.**
+**Dinex es el primer medio de pago digital para Smartphones y tablets.**
 
 **Con Dinex pagas y recibes en segundos, sin efectivo y con máxima seguridad.**
 
 
 ## ¿Qué son los nombres Dinex: $DinexTag?
 
-El nombre Dinex, o $DinexTag, es tu nombre de usuario en la red Dinex. Con tu $DinexTag puedes recibir pagos a través de la App Dinex.
+El nombre Dinex, o $DinexTag, es tu nombre de usuario en la red Dinex. Con tu $DinexTag puedes recibir pagos a través de la Dinex App.
 
 Compártelo con los demás y recibe pagos en segundos, en cualquier lugar.
 
@@ -34,7 +34,7 @@ Un crédito Dinex vale un peso chileno. Siempre.
 
 ## ¿A quién puedo pagar con Dinex?
 
-A todos!
+¡A todos!
 
 Ingresa el nombre de usuario Dinex, $DinexTag, del destinatario en la App y listo, ya le puedes enviar.
 
@@ -45,7 +45,7 @@ Ingresa el nombre de usuario Dinex, $DinexTag, del destinatario en la App y list
 
 ### ¿Y si no tiene cuenta Dinex?
 
-Si alguien no tiene cuenta Dinex le puedes enviar un pago indicando su mail en el campo del destinatario.
+Si alguien no tiene cuenta Dinex, le puedes enviar un pago indicando su mail en el campo del destinatario.
 
 Dinex se encargará de hacerle llegar el pago de forma automática.
 
@@ -56,9 +56,9 @@ Dinex se encargará de hacerle llegar el pago de forma automática.
 
 Toda cuenta Dinex creada durante el período de lanzamiento será [gratis por siempre.](../guias/costos/#retirar-saldo-dinex)
 
-Para las cuentas creadas después del lanzamiento, habrá un costo sólo al momento de retirar saldo.
+Para las cuentas creadas después del lanzamiento, habrá un costo sólo al momento de retirar saldo de tu cuenta.
 
-La carga de saldo Dinex y los pagos dentro de la red Dinex son **gratis por siempre.**
+La carga de saldo Dinex y los pagos dentro de la red Dinex son **siempre gratis.**
 
 [+ info](../guias/costos.md)
 <div style="display: none;">Precio Costo Gratis</div>
@@ -68,7 +68,7 @@ La carga de saldo Dinex y los pagos dentro de la red Dinex son **gratis por siem
 
 Dinex emplea los protocolos transaccionales más seguros del mundo.
 
-Todo pago confirmado por la App Dinex se realizó de forma segura e irreversible al destinatario indicado.
+Todo pago confirmado por la Dinex App se realizó de forma segura e irreversible al destinatario indicado.
 
 Igualmente, la información de cuentas y usuarios está almacenada con los más altos estándares de seguridad de la industria.
 
@@ -77,7 +77,7 @@ Igualmente, la información de cuentas y usuarios está almacenada con los más 
 
 ## ¿Cómo cargo saldo en mi cuenta Dinex?
 
-Puedes cargar saldo mediante transferencia bancaria desde la misma App Dinex.
+Puedes cargar saldo mediante transferencia bancaria desde la misma Dinex App.
 
 O pídele a alguien que te envíe DNX y listo!
 
@@ -86,7 +86,7 @@ O pídele a alguien que te envíe DNX y listo!
 
 ## ¿Cómo retirar saldo en mi cuenta Dinex?
 
-En la App Dinex indica los datos de la cuenta bancaria y luego el monto a retirar.
+En la Dinex App indica los datos de la cuenta bancaria y luego el monto a retirar.
 
 En menos de 24 horas recibirás el reembolso en la cuenta bancaria indicada.
 
@@ -95,7 +95,7 @@ En menos de 24 horas recibirás el reembolso en la cuenta bancaria indicada.
 
 ## ¿Qué cuentas bancarias puedo usar?
 
-Puedes cargar o retirar con cualquier cuenta bancaria en Chile: corriente, vista o ahorro.
+Puedes cargar o retirar con cualquier cuenta bancaria en Chile: corriente, vista, rut o ahorro.
 
 
 ## Tiempos de procesamiento
@@ -109,7 +109,7 @@ Puedes cargar o retirar con cualquier cuenta bancaria en Chile: corriente, vista
 
 ## Monto mínimo y monto máximo
 
-No hay!
+¡No hay!
 
 
 ## ¿Qué pasa si no tengo internet móvil?
@@ -123,16 +123,16 @@ Cuando te conectes nuevamente verás tu saldo actualizado.
 
 ## ¿Qué pasa si pierdo mi dispositivo móvil?
 
-No te preocupes! Tu saldo Dinex está seguro.
+¡No te preocupes! Tu saldo Dinex está seguro.
 
 Ingresa a tu cuenta vía web en <a href="http://dinex.cl/webapp" target="_blank">dinex.cl/webapp</a>, desactiva tu cuenta y cambia la contraseña.
 
-Descarga nuevamente la App Dinex en tu nuevo Smartphone e ingresa con la nueva contraseña.
+Descarga nuevamente la Dinex App en tu nuevo Smartphone e ingresa con la nueva contraseña.
 
 
 ## ¿Cómo cambio la contraseña?
 
-Dentro de la misma App Dinex puedes cambiar tu contraseña.
+Dentro de la misma Dinex App puedes cambiar tu contraseña.
 
 [+ info](../guias/cuenta/#cambiar-contrasena)
 
@@ -143,7 +143,7 @@ Puedes recuperar tu cuenta con tu nombre de usuario Dinex y tu [Clave Secreta Di
 
 La clave secreta Dinex es la llave que asegura que tu información está segura.
 
-Al crear tu cuenta se te indica tu clave secreta Dinex. Anótala en un lugar seguro y no la pierdas!
+Al crear tu cuenta se te indica tu clave secreta Dinex. Anótala en un lugar seguro y ¡no la pierdas!
 
 [+ info](../guias/cuenta/#recuperar-cuenta)
 
@@ -156,3 +156,5 @@ Toda transacción Dinex se ve reflejada en el historial de tu cuenta.
 ## ¿Dónde puedo ocupar Dinex?
 
 Los servicios Dinex están disponibles en toda la República de Chile.
+
+<br><br>

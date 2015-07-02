@@ -10,14 +10,6 @@ Si no encuentras la respuesta que buscas, [envíanos un mensaje](../solicitud.md
 # Retirar
 
 
-## Pagar con Dinex
-
-
-<br><br>
-
-## Recibir pagos con Dinex
-
-
 <br><br>
 
 ## Agregar/Modificar una cuenta bancaria asociada

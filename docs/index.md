@@ -16,13 +16,13 @@ Puedes contactarnos a través del formulario de contacto, o a través del chat e
 
 ## ¿Como funciona Dinex?   
 
-- Descarga la App Dinex desde el Play Store.
+- Descarga la Dinex App desde la tienda de aplicaciones para tu Smartphone o tablet.
 
 - Crea una cuenta de usuario Dinex y registra tu $DinexTag
 
 - Carga saldo mediante transferencia bancaria desde la misma aplicación Dinex o pídele a alguien que te envíe saldo.
 
-- Listo! Ya puedes pagar y recibir pagos con Dinex.  
+- !Listo! Ya puedes pagar y recibir pagos con Dinex.  
 
 <br>
 

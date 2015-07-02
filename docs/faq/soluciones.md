@@ -15,7 +15,7 @@ Si no encuentras la respuesta que buscas, [envíanos un mensaje](../solicitud.md
 ## He sido bloqueado de mi cuenta Dinex
 
 
-<br><br>
+<br><br><br>
 # Problemas de Pago
 
 Aquí encontrarás una lista de posibles problemas al momento de realizar o hacer seguimiento a un Pago en Dinex. 

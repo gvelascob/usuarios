@@ -7,7 +7,7 @@ Si no encuentras la respuesta que buscas [envíanos un mensaje](../solicitud.md)
 
 ## Crear una cuenta Dinex
 
-1. Descarga la App Dinex desde la tienda de aplicaciones para tu Smartphone
+1. Descarga la Dinex App desde la tienda de aplicaciones para tu Smartphone o tablet.
 
 2. Registra tu nombre de usuario ([$DinexTag](#dinextag))
 
@@ -26,7 +26,7 @@ El $DinexTag, o nombre de usuario Dinex, es el identificador de tu cuenta para q
 
 Todo usuario Dinex tiene un $DinexTag, el cual comienza **siempre con el signo $.**
 
-Los $DinexTag son únicos, tienen un máximo de 20 caractéres y no diferencian entre minúsculas y mayúsculas.
+Los $DinexTag son únicos, tienen un máximo de 20 caracteres y no diferencian entre minúsculas y mayúsculas.
 
 ### ¿Cómo usarlo?
 
@@ -36,11 +36,11 @@ Nunca más tendrás que revelar información personal a terceros, ni tu RUT, ni 
 
 La persona que realiza el pago debe ingresar el $DinexTag del destinatario en la aplicación Dinex, indicar el monto y realizar la transacción.
 
-En breves segundos, el destinatario será notificado a través de la App del pago recibido.
+En tan solo segundos, el destinatario será notificado a través de la App del pago recibido.
 
 ### Cambiar el $DinexTag
 
-Para cambiar tu $DinexTag debes ingresar a la App Dinex o via web en <a href="http://dinex.cl/webapp" target="_blank">dinex.cl/webapp</a>, sección **Cuenta** y seguir los pasos indicados.
+Para cambiar tu $DinexTag debes ingresar a la Dinex App o via web en <a href="http://dinex.cl/webapp" target="_blank">dinex.cl/webapp</a>, sección **Cuenta** y seguir los pasos indicados.
 
 
 ## Saldo Dinex
@@ -77,6 +77,6 @@ Sigue el enlace, ingresa tu Clave Secreta Dinex y podrás recuperar la cuenta.
 
 ## Desactivar cuenta
 
-Puedes desdactivar tu cuenta Dinex desde la App Dinex o via web en <a href="http://dinex.cl/webapp" target="_blank">dinex.cl/webapp</a>, sección **Configuración** y seguir los pasos indicados.
+Puedes desactivar tu cuenta Dinex desde la Dinex App o via web en <a href="http://dinex.cl/webapp" target="_blank">dinex.cl/webapp</a>, sección **Configuración** y siguiendo los pasos indicados.
 
 **Una cuenta desactivada no puede enviar pagos Dinex**

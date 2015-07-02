@@ -6,12 +6,12 @@ Si tienes problemas al cargar y  retirar de su cuenta, dirijase a [No puedo carg
 
 Si no encuentras la respuesta que buscas, [envíanos un mensaje](../solicitud.md) o comenta en el sitio.
 
-## Cargar saldo
+## Pagar con Dinex
 
 
 <br><br>
 
-## Retirar saldo
+## Recibir pagos con Dinex
 
 
 <br><br>
