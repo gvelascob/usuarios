@@ -15,7 +15,7 @@
         <input id="name" name="name" type="text" class="form-control" value="" size="30" />
         <span id="name_validation" class="error"></span>
     </div> 
-  </div>
+  </div><br>
   
   <div class="rowsubmit">
     <div class="col-sm-10">
@@ -23,7 +23,7 @@
         <input id="email" name="email" type="text" class="form-control" value="" size="30" />
         <span id="email_validation" class="error"></span>
     </div>
-  </div>
+  </div><br>
  
    <div class="rowsubmit">
     <div class="col-sm-10">
@@ -31,7 +31,7 @@
         <input id="subject" name="subject" type="text" class="form-control" value="" size="30" />
         <span id="subject_validation" class="error"></span>
     </div>
-  </div>
+  </div><br>
   
   <div class="rowsubmit">
     <div class="col-sm-10">
@@ -39,7 +39,7 @@
         <textarea id="description" name="description" class="form-control" rows="7" cols="30"></textarea>
         <span id="description_validation" class="error"></span>
     </div>
-  </div>
+  </div><br>
   
   <div class="rowend">
     <div class="col-sm-10">

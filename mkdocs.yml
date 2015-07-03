@@ -10,7 +10,7 @@ pages:
 - Inicio: 'index.md'
 
 - Preguntas Frecuentes:
-  - 'Preguntas Frecuentes': 'faq/FAQ-preguntas-generales.md'
+  - 'Preguntas Generales': 'faq/FAQ-preguntas-generales.md'
   #- 'Personas': 'faq/FAQ-personas.md'
   #- 'Taxistas': 'faq/FAQ-taxistas.md'
   #- 'Problemas de Pago': 'faq/problemas.md'

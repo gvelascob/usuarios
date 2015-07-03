@@ -60,6 +60,9 @@ Para información más detallada, leer los [Términos y Condiciones de Uso](../l
 
 Toda transacción en la red Dinex se ve reflejada en el historial dentro de la aplicación.
 
+## Lista de Contactos
+
+La Lista de Contactos te permite guardar la información de cualquier otro usuario Dinex para poder hacer pagos de forma más cómoda y rápida, sin tener que reingresar su $DinexTag cada vez. En cambio, le asignas un nombre como *Pancho*, *Emilia*, etc.  
 
 ## Cambiar contraseña
 

@@ -79,7 +79,7 @@ Igualmente, la información de cuentas y usuarios está almacenada con los más 
 
 Puedes cargar saldo mediante transferencia bancaria desde la misma Dinex App.
 
-O pídele a alguien que te envíe DNX y listo!
+O pídele a alguien que te envíe DNX y ¡listo!
 
 [+ info](..guias/cargar-retirar/#cargar)
 
@@ -95,7 +95,9 @@ En menos de 24 horas recibirás el reembolso en la cuenta bancaria indicada.
 
 ## ¿Qué cuentas bancarias puedo usar?
 
-Puedes cargar o retirar con cualquier cuenta bancaria en Chile: corriente, vista, rut o ahorro.
+Puedes cargar saldo con cualquiera de los siguientes tipos de cuentas bancarias en Chile: corriente, vista y RUT.
+
+Puedes retirar saldo con cualquier cuenta bancaria en Chile: corriente, vista, rut o ahorro.
 
 
 ## Tiempos de procesamiento
