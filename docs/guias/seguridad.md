@@ -5,7 +5,7 @@
 Los datacenters con que opera Dinex están certificados bajo los más exigentes estándares de seguridad y confiabilidad.
 
 <a href="https://cloud.google.com/security/compliance" target="_blank">
-  <img src="/img/gcp-assurance_2x.png">
+  <img src="../../img/gcp-assurance_2x.png">
 </a>
 
 
