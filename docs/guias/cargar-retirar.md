@@ -1,4 +1,4 @@
-# Cargos & Retiros
+# Cargar
 
 Aquí podrás encontrar videos tutoriales para cargar y retirar saldo de tu cuenta Dinex. 
 
@@ -6,12 +6,13 @@ Si tienes problemas al pagar o recibir en tu cuenta, dirijase a [Problemas de Pa
 
 Si no encuentras la respuesta que buscas, [envíanos un mensaje](../solicitud.md) o comenta en el sitio.
 
-## Pagar con Dinex
+
+# Retirar
 
 
 <br><br>
 
-## Recibir pagos con Dinex
+## Agregar/Modificar una cuenta bancaria asociada
 
 
 <br><br>
